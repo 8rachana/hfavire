@@ -1,3 +1,9 @@
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('../src//assets/metropolis/Metropolis-Regular.otf') format('truetype'); /* Adjust the path and format accordingly */
+  /* Add other font properties if needed */
+}
 .App {
   text-align: center;
 }
