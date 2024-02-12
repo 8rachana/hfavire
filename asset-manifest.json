@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hfavire/static/css/main.6ce89657.css",
+    "main.css": "/hfavire/static/css/main.ffc46473.css",
     "main.js": "/hfavire/static/js/main.5ba1ea47.js",
     "static/js/592.500c7081.chunk.js": "/hfavire/static/js/592.500c7081.chunk.js",
     "static/media/footerimg2.svg": "/hfavire/static/media/footerimg2.5926129a11a9ecb702a0d5ae42d5f0ab.svg",
@@ -21,12 +21,12 @@
     "index.html": "/hfavire/index.html",
     "static/media/contentwave.svg": "/hfavire/static/media/contentwave.5099f0932dc543339378.svg",
     "static/media/footerwave.svg": "/hfavire/static/media/footerwave.aa3be0e9eae41ffccbd4.svg",
-    "main.6ce89657.css.map": "/hfavire/static/css/main.6ce89657.css.map",
+    "main.ffc46473.css.map": "/hfavire/static/css/main.ffc46473.css.map",
     "main.5ba1ea47.js.map": "/hfavire/static/js/main.5ba1ea47.js.map",
     "592.500c7081.chunk.js.map": "/hfavire/static/js/592.500c7081.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ce89657.css",
+    "static/css/main.ffc46473.css",
     "static/js/main.5ba1ea47.js"
   ]
 }
