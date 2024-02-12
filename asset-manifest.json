@@ -1,20 +1,13 @@
 {
   "files": {
     "main.css": "/hfavire/static/css/main.ffc46473.css",
-    "main.js": "/hfavire/static/js/main.271db917.js",
+    "main.js": "/hfavire/static/js/main.9ba80090.js",
     "static/js/592.500c7081.chunk.js": "/hfavire/static/js/592.500c7081.chunk.js",
-    "static/media/footerimg2.svg": "/hfavire/static/media/footerimg2.5926129a11a9ecb702a0d5ae42d5f0ab.svg",
-    "static/media/footerphone.svg": "/hfavire/static/media/footerphone.5926129a11a9ecb702a0d5ae42d5f0ab.svg",
+    "static/media/ftr_phones.png": "/hfavire/static/media/ftr_phones.0f4b81ef15ea0cc0c57e.png",
     "static/media/smartphone3.png": "/hfavire/static/media/smartphone3.d4b91efbcb8577419856.png",
-    "static/media/smartphone.svg": "/hfavire/static/media/smartphone.ae489f691483d7d392c1db39d133cb34.svg",
-    "static/media/result.svg": "/hfavire/static/media/result.1166461a7c25a42b559b43afcfba4660.svg",
-    "static/media/smartphone2.png": "/hfavire/static/media/smartphone2.45f10ca6a698619e0701.png",
     "static/media/footerimg.svg": "/hfavire/static/media/footerimg.9cdbef2e297d558f0a2f99bc140f169b.svg",
-    "static/media/playstore.svg": "/hfavire/static/media/playstore.584286e0c4e9913c4729c362990f8d50.svg",
-    "static/media/playstore1.svg": "/hfavire/static/media/playstore1.38c3a54f499d55afbb39124563f95552.svg",
-    "static/media/Applestore.svg": "/hfavire/static/media/Applestore.713a1587c8cec251853a29c585934429.svg",
-    "static/media/apple3.svg": "/hfavire/static/media/apple3.713a1587c8cec251853a29c585934429.svg",
-    "static/media/Applestore1.svg": "/hfavire/static/media/Applestore1.f15d139fe1ec5ffc71d0e54db64486e3.svg",
+    "static/media/play_store.png": "/hfavire/static/media/play_store.702b4ffdb5a675213b9b.png",
+    "static/media/Applestore.png": "/hfavire/static/media/Applestore.7398e661f18e86d7623b.png",
     "static/media/Metropolis-BoldItalic.otf": "/hfavire/static/media/Metropolis-BoldItalic.1eb34a2ff06aec00a72c.otf",
     "static/media/Metropolis-Bold.otf": "/hfavire/static/media/Metropolis-Bold.c5e04fafcff6fc79cd76.otf",
     "static/media/Metropolis-Regular.otf": "/hfavire/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
@@ -23,11 +16,11 @@
     "static/media/contentwave.svg": "/hfavire/static/media/contentwave.5099f0932dc543339378.svg",
     "static/media/footerwave.svg": "/hfavire/static/media/footerwave.aa3be0e9eae41ffccbd4.svg",
     "main.ffc46473.css.map": "/hfavire/static/css/main.ffc46473.css.map",
-    "main.271db917.js.map": "/hfavire/static/js/main.271db917.js.map",
+    "main.9ba80090.js.map": "/hfavire/static/js/main.9ba80090.js.map",
     "592.500c7081.chunk.js.map": "/hfavire/static/js/592.500c7081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffc46473.css",
-    "static/js/main.271db917.js"
+    "static/js/main.9ba80090.js"
   ]
 }
