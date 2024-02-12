@@ -1,16 +1,11 @@
 import React from "react";
 import "./Footer.css";
 import footerimg from "../../assets/footerimg.svg";
-import footerimg2 from "../../assets/footerimg2.svg";
-import footerphone from "../../assets/footerphone.svg";
-import apple1 from "../../assets/Applestore1.svg";
-import playstore1 from "../../assets/playstore1.svg";
-import apple from "../../assets/Applestore.svg";
-import playstore from "../../assets/playstore.svg";
 import { FaInstagram, FaFacebookF } from "react-icons/fa";
 import { FiTwitter } from "react-icons/fi";
-import apple3 from "../../assets/apple3.svg";
-
+import ftr_phones from "../../assets/ftr_phones.png";
+import Applestore from "../../assets/Applestore.png";
+import play_store from "../../assets/play_store.png";
 const Footer = () => {
   return (
     <div className="ftr-main">
@@ -35,8 +30,8 @@ const Footer = () => {
           <div>
             <p className="ftr-avbl">Available Soon On</p>
             <div className="download-store">
-              <img src={apple3} alt="apple" className="apple" />
-              <img src={playstore1} alt="playstore" className="playstore" />
+              <img src={Applestore} alt="apple" className="apple" />
+              <img src={play_store} alt="playstore" className="playstore" />
             </div>
           </div>
           <div className="ftr-links">
@@ -56,7 +51,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="ftr-right">
-        <img src={footerphone} className="ftr-img2" />
+        <img src={ftr_phones} className="ftr-img2" />
       </div>
     </div>
   );

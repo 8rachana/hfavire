@@ -1,11 +1,6 @@
 import React from "react";
 import "./Content.css";
-import smartphone from "../../assets/smartphone.svg";
-import smartphone2 from "../../assets/smartphone2.png";
 import smartphone3 from "../../assets/smartphone3.png";
-
-
-import result from "../../assets/result.svg";
 
 import RowWithBlocks from "../../components/Blocks";
 import { IoPersonCircleOutline } from "react-icons/io5";
