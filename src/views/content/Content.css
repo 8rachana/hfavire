@@ -101,7 +101,8 @@
   display: flex;
 }
 .cnt-img {
-  width: 75%;
+  /* width: 75%; */
+  width: 34vw;
 }
 .cnt-right2 {
   display: flex;

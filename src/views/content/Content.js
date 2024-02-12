@@ -1,7 +1,7 @@
 import React from "react";
 import "./Content.css";
 import smartphone from "../../assets/smartphone.svg";
-import smartphone2 from "../../assets/smartphone2.png.svg";
+import smartphone2 from "../../assets/smartphone2.png";
 
 import result from "../../assets/result.svg";
 
