@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/hfavire/static/css/main.1b8f374d.css",
-    "main.js": "/hfavire/static/js/main.4c38db98.js",
+    "main.css": "/hfavire/static/css/main.b3372e56.css",
+    "main.js": "/hfavire/static/js/main.30016f32.js",
     "static/js/592.500c7081.chunk.js": "/hfavire/static/js/592.500c7081.chunk.js",
-    "static/media/footerimg2.svg": "/hfavire/static/media/footerimg2.159702f700d91f42356f1c3b37887d3f.svg",
+    "static/media/footerimg2.svg": "/hfavire/static/media/footerimg2.5926129a11a9ecb702a0d5ae42d5f0ab.svg",
+    "static/media/footerphone.svg": "/hfavire/static/media/footerphone.5926129a11a9ecb702a0d5ae42d5f0ab.svg",
     "static/media/smartphone.svg": "/hfavire/static/media/smartphone.ae489f691483d7d392c1db39d133cb34.svg",
+    "static/media/result.svg": "/hfavire/static/media/result.1166461a7c25a42b559b43afcfba4660.svg",
     "static/media/footerimg.svg": "/hfavire/static/media/footerimg.9cdbef2e297d558f0a2f99bc140f169b.svg",
     "static/media/playstore.svg": "/hfavire/static/media/playstore.584286e0c4e9913c4729c362990f8d50.svg",
+    "static/media/playstore1.svg": "/hfavire/static/media/playstore1.38c3a54f499d55afbb39124563f95552.svg",
     "static/media/Applestore.svg": "/hfavire/static/media/Applestore.713a1587c8cec251853a29c585934429.svg",
+    "static/media/Applestore1.svg": "/hfavire/static/media/Applestore1.f15d139fe1ec5ffc71d0e54db64486e3.svg",
     "static/media/Metropolis-BoldItalic.otf": "/hfavire/static/media/Metropolis-BoldItalic.1eb34a2ff06aec00a72c.otf",
     "static/media/Metropolis-Bold.otf": "/hfavire/static/media/Metropolis-Bold.c5e04fafcff6fc79cd76.otf",
     "static/media/Metropolis-Regular.otf": "/hfavire/static/media/Metropolis-Regular.67a1988d7b65b0aaa16d.otf",
@@ -15,12 +19,12 @@
     "index.html": "/hfavire/index.html",
     "static/media/contentwave.svg": "/hfavire/static/media/contentwave.5099f0932dc543339378.svg",
     "static/media/footerwave.svg": "/hfavire/static/media/footerwave.aa3be0e9eae41ffccbd4.svg",
-    "main.1b8f374d.css.map": "/hfavire/static/css/main.1b8f374d.css.map",
-    "main.4c38db98.js.map": "/hfavire/static/js/main.4c38db98.js.map",
+    "main.b3372e56.css.map": "/hfavire/static/css/main.b3372e56.css.map",
+    "main.30016f32.js.map": "/hfavire/static/js/main.30016f32.js.map",
     "592.500c7081.chunk.js.map": "/hfavire/static/js/592.500c7081.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b8f374d.css",
-    "static/js/main.4c38db98.js"
+    "static/css/main.b3372e56.css",
+    "static/js/main.30016f32.js"
   ]
 }
