@@ -1,6 +1,8 @@
 import React from "react";
 import "./Content.css";
 import smartphone from "../../assets/smartphone.svg";
+import smartphone2 from "../../assets/smartphone2.png.svg";
+
 import result from "../../assets/result.svg";
 
 import RowWithBlocks from "../../components/Blocks";
@@ -39,7 +41,7 @@ const content = () => {
         <div className="cnt-right">
           {/* <img src={smartphone} alt="consultant" className="cnt-img" /> */}
 
-          <img src={result} alt="consultant" className="cnt-img" />
+          <img src={smartphone2} alt="consultant" className="cnt-img" />
           <div className="cnt-right2">
             <div className="cnt-labelicon">
               <div className="cnt-right-iclbl1">
