@@ -2,6 +2,9 @@ import React from "react";
 import "./Footer.css";
 import footerimg from "../../assets/footerimg.svg";
 import footerimg2 from "../../assets/footerimg2.svg";
+import footerphone from '../../assets/footerphone.svg';
+import apple1 from "../../assets/Applestore1.svg";
+import playstore1 from "../../assets/playstore1.svg";
 import apple from "../../assets/Applestore.svg";
 import playstore from "../../assets/playstore.svg";
 import { FaInstagram, FaFacebookF } from "react-icons/fa";
@@ -31,8 +34,8 @@ const Footer = () => {
           <div>
             <p className="ftr-avbl">Available Soon On</p>
             <div className="download-store">
-              <img src={apple} alt="apple" className="apple" />
-              <img src={playstore} alt="playstore" className="playstore" />
+              <img src={apple1} alt="apple" className="apple" />
+              <img src={playstore1} alt="playstore" className="playstore" />
             </div>
           </div>
           <div className="ftr-links">
@@ -42,7 +45,7 @@ const Footer = () => {
               <div>Terms of Conditions </div>
               <div>Help</div>
             </div>
-            <hr className="hr-line"/>
+            <hr className="hr-line" />
             <div className="ft-scl">
               <FaInstagram className="insta-logo" />
               <FiTwitter className="twtr-logo" />
@@ -52,7 +55,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="ftr-right">
-        <img src={footerimg2} className="ftr-img2" />
+        <img src={footerphone} className="ftr-img2" />
       </div>
     </div>
   );

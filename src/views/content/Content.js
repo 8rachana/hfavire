@@ -1,6 +1,8 @@
 import React from "react";
 import "./Content.css";
 import smartphone from "../../assets/smartphone.svg";
+import result from "../../assets/result.svg";
+
 import RowWithBlocks from "../../components/Blocks";
 import { IoPersonCircleOutline } from "react-icons/io5";
 import { PiStarFourFill } from "react-icons/pi";
@@ -35,7 +37,9 @@ const content = () => {
         </div>
 
         <div className="cnt-right">
-          <img src={smartphone} alt="consultant" className="cnt-img" />
+          {/* <img src={smartphone} alt="consultant" className="cnt-img" /> */}
+
+          <img src={result} alt="consultant" className="cnt-img" />
           <div className="cnt-right2">
             <div className="cnt-labelicon">
               <div className="cnt-right-iclbl1">

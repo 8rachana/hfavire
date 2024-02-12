@@ -101,7 +101,7 @@
   display: flex;
 }
 .cnt-img {
-  width: 50%;
+  width: 75%;
 }
 .cnt-right2 {
   display: flex;
@@ -201,9 +201,10 @@
   }
   .cnt-right {
     flex-direction: column-reverse;
+    align-items: center;
   }
   .cnt-img {
-    width: 100%;
+    width: 96%;
     height: 100%;
     padding: 30px 0 0 0;
   }
@@ -232,7 +233,7 @@
     flex-direction: row-reverse;
   }
   .cnt-ratingcnt {
-    gap: 10px;
+    gap: 8px;
     align-items: center;
     background-color: rgba(99, 97, 128, 0.5);
     backdrop-filter: blur(2px);
@@ -240,8 +241,8 @@
     padding: 10px;
 
     position: absolute;
-    right: 20px;
-    left: 20px;
+    right: 50px;
+    left: 50px;
     top: 70%;
   }
   .cnt-right2 {
